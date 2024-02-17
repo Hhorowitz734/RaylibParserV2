@@ -1,0 +1,3 @@
+/Users/bhorowitz/Documents/CProjects/RaylibParserV2/build/CMakeFiles/appbuilder.dir
+/Users/bhorowitz/Documents/CProjects/RaylibParserV2/build/CMakeFiles/edit_cache.dir
+/Users/bhorowitz/Documents/CProjects/RaylibParserV2/build/CMakeFiles/rebuild_cache.dir
